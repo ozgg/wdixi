@@ -9,7 +9,7 @@ gem 'importmap-rails'
 gem 'jbuilder'
 gem 'kamal', require: false
 gem 'kaminari', '~> 1.2'
-gem 'pg', '~> 1.1'
+gem 'pg', '~> 1.7'
 gem 'propshaft'
 gem 'puma', '>= 5.0'
 gem 'rails', '~> 8.1.3'

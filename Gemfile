@@ -35,7 +35,7 @@ group :development, :test do
   gem 'rubocop-rails', '~> 2.35'
   gem 'rubocop-rake', '~> 0.7.1'
   gem 'rubocop-rspec', '~> 3.10'
-  gem 'rubocop-rspec_rails', '~> 2.32'
+  gem 'rubocop-rspec_rails', '~> 2.33'
   gem 'shoulda-matchers', '~> 7.0'
 end
 

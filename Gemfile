@@ -8,7 +8,7 @@ gem 'dotenv-rails', '~> 3.2'
 gem 'importmap-rails'
 gem 'jbuilder'
 gem 'kamal', require: false
-gem 'kaminari', '~> 1.2'
+gem 'kaminari', '~> 1.3'
 gem 'pg', '~> 1.1'
 gem 'propshaft'
 gem 'puma', '>= 5.0'

@@ -28,7 +28,7 @@ group :development, :test do
   gem 'debug', platforms: %i[mri windows], require: 'debug/prelude'
   gem 'factory_bot_rails', '~> 6.5'
   gem 'rails-i18n', '~> 8.1'
-  gem 'rspec-rails', '~> 8.0'
+  gem 'rspec-rails', '~> 8.1'
   gem 'rubocop', '~> 1.87'
   gem 'rubocop-factory_bot', '~> 2.28'
   gem 'rubocop-performance', '~> 1.26'
